@@ -1,0 +1,10 @@
+# leftover srt files for testing
+**.srt
+
+# env variables
+.env
+
+# cached files
+.vscode
+**__pycache__**
+.python-version
